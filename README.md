@@ -56,3 +56,19 @@ The priest says, “I will say a prayer for them tonight.”
 The doctor says, “Let me ask my ophthalmologist colleagues if anything can be done for them.”
 
 And the software engineer says, “Why can’t they play at night?” 
+
+# zhoujianfu
+
+A physicist, chemist, and programmer were going to lunch together.
+
+When they got in the car though, it wouldn’t start.
+
+“Maybe it’s out of gas?” said the Chemist.
+
+“Maybe it’s a problem with the engine?” said the Physicist.
+
+“Maybe if we all just get out of the car and get back in.” 
+
+# cirgue
+
+“I know a UDP joke, but I’m not sure you’ll get it”.
