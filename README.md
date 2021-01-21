@@ -1,6 +1,8 @@
 # Programming-jokes
 Best of: Ask HN: Anyone know any funny programming jokes?
 
+Added the user names of the contributors and their jokes.
+
 https://news.ycombinator.com/item?id=25850739
 
 # mistersquid
