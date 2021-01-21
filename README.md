@@ -1,6 +1,8 @@
 # Programming-jokes
 Best of: Ask HN: Anyone know any funny programming jokes?
 
+https://news.ycombinator.com/item?id=25850739
+
 # mistersquid
 
 A man is flying in a hot air balloon and realizes he is lost. He reduces height and spots a man down below. He lowers the balloon further and shouts:
